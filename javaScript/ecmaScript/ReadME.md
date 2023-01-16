@@ -24,7 +24,7 @@
 + Наследование: с помощью слов extends и super.
 + Стрелочные функции: () => {}
 
-Последний EcmaScript сейчас - это EcmaScript2022:
+### Последний EcmaScript сейчас - это EcmaScript2022:
 + Глобальный await в модулях 
 + Проверка приватных слотов через оператор in:
     + ClassWithPrivateSlot.hasPrivateSlot(obj1)
