@@ -1,3 +1,3 @@
 const sayHello = () => {
-    return 'hi'
+    return 'hi i am Ksenia'
 }
