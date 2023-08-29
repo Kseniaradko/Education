@@ -15,8 +15,8 @@ User.prototype.sayName = function() {
 
 User.prototype.has18 = function() {
     return this.age > 18;
-
 }
+
 const user = new User('Andrey', 'Kobets', 32);
 console.log(user)
 
